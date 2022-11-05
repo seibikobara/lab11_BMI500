@@ -5,5 +5,5 @@ Files are:
 1. seirModel.py: source codes for SEIR model.
 2. testScript.py: test script of py file.
 3. testScript.ipynb: test script of notebook.
-
+4. KobaraNoiseAlteration.m: created a ECG with noise
  
